@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Book1PageViewController.selectedImage.setter:Book1PageController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.option1Pressed(_:):Book1Page2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.mouthTap(gestureRecognizer:):Book1Page2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gestureRecognizer.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.updateAllPropertiesAndLabels(optionButtonLabel:index:):Book1Page2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "optionButtonLabel.titleLabel?.text ">
+            </PersistentString>
+            <PersistentString
+               value = " mouthList[index] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.colorTap(gestureRecognizer:):Book1Page2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "colorList[0]">
+            </PersistentString>
+            <PersistentString
+               value = "option1ButtonLabel.titleLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "colorList[1]">
+            </PersistentString>
+            <PersistentString
+               value = "colorList[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.colorLabelTapped(gestureRecognizer:):Book1Page2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gestureRecognizer.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
