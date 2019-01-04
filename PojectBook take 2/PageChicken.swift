@@ -113,7 +113,7 @@ class PageChicken: UIViewController {
     }
     
     @IBAction func option3Pressed(_ sender: Any) {
-        print("option 3 pressed x")
+       
         index = 2
         updateAllPropertiesAndLabels(optionButtonLabel: option3ButtonLabel, index: index)
         print("option 3 pressed")

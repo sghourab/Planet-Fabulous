@@ -123,7 +123,7 @@ var index = 0
 }
 
 @IBAction func option3Pressed(_ sender: Any) {
-     print("option 3 pressed x")
+     print("option 3 pressed")
     index = 2
     updateAllPropertiesAndLabels(optionButtonLabel: option3ButtonLabel, index: index)
     print("option 3 pressed")
